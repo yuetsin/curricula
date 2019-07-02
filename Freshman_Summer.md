@@ -10,6 +10,7 @@
 * ![SE-113](https://img.shields.io/badge/SE-113-green.svg?style=flat-square)
 ![credit](https://img.shields.io/badge/credit-1.0-green.svg?style=flat-square)
   * 程序设计课程设计，陈昊鹏
+  * [Repository](https://github.com/yuetsin/SE-113)
   
 * ![SO-018](https://img.shields.io/badge/SO-018-yellowgreen.svg?style=flat-square)
 ![credit](https://img.shields.io/badge/credit-2.0-yellowgreen.svg?style=flat-square)
