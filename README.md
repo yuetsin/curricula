@@ -1,6 +1,7 @@
 # curricula
 
 ## Autumn, Freshman Year
+
 * ![CS-902](https://img.shields.io/badge/CS-902-brightgreen.svg?style=flat-square)
   * 程序设计思想与方法，宦飞
   * [Repository](https://github.com/yuetsin/CS-902)
@@ -29,5 +30,11 @@
 * ![SP-062](https://img.shields.io/badge/SP-062-blueviolet.svg?style=flat-square)
   * 航空航天技术历史与展望，赵万生
   
-* ![TH-000](https://img.shields.io/badge/TH-000-blueviolet.svg?style=flat-square)
+* ![TH-000](https://img.shields.io/badge/TH-000-brightgreen.svg?style=flat-square)
   * 思想道德修养与法律基础，周国华
+  
+* ![TH-004](https://img.shields.io/badge/TH-004-green.svg?style=flat-square)
+  * 军事理论，赵建世
+    
+* ![TH-020](https://img.shields.io/badge/TH-020-yellowgreen.svg?style=flat-square)
+  * 形势与政策，苏鏐鏐
