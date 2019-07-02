@@ -1,6 +1,6 @@
 # curricula
 
-## Summer Semester, Freshman Year
+## Summer Semester, Sophomore Year
 
 * ![SE-231](https://img.shields.io/badge/SE-231-brightgreen.svg?style=flat-square)
 ![credit](https://img.shields.io/badge/credit-4.0-brightgreen.svg?style=flat-square)
