@@ -1,6 +1,6 @@
 # curricula
 
-## Spring Semester, Freshman Year
+## Spring Semester, Sophomore Year
 
 * ![CS-149](https://img.shields.io/badge/CS-149-brightgreen.svg?style=flat-square)
 ![credit](https://img.shields.io/badge/credit-3.0-brightgreen.svg?style=flat-square)

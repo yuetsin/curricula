@@ -14,6 +14,7 @@
 * ![CS-048](https://img.shields.io/badge/CS-048-yellowgreen.svg?style=flat-square)
 ![credit](https://img.shields.io/badge/credit-3.0-yellowgreen.svg?style=flat-square)
   * C++程序设计（A类），董笑菊
+  * [Repository](https://github.com/yuetsin/CS-048)
  
 * ![EN-064](https://img.shields.io/badge/EN-064-yellow.svg?style=flat-square)
 ![credit](https://img.shields.io/badge/credit-3.0-yellow.svg?style=flat-square)

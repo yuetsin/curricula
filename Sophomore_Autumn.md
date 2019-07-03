@@ -30,10 +30,6 @@
 * ![SE-222](https://img.shields.io/badge/SE-222-blue.svg?style=flat-square)
 ![credit](https://img.shields.io/badge/credit-3.0-blue.svg?style=flat-square)
   * 算法原理，李国强、姜丽红
-  
-* ![PE-001](https://img.shields.io/badge/PE-001-lightgrey.svg?style=flat-square)
-![credit](https://img.shields.io/badge/credit-1.0-lightgrey.svg?style=flat-square)
-  * 体育（1），徐扬
  
 * ![TH-007](https://img.shields.io/badge/TH-007-blueviolet.svg?style=flat-square)
 ![credit](https://img.shields.io/badge/credit-3.0-blueviolet.svg?style=flat-square)
