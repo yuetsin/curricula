@@ -5,6 +5,7 @@
 * ![CH-906](https://img.shields.io/badge/CH-906-brightgreen.svg?style=flat-square)
 ![credit](https://img.shields.io/badge/credit-3.0-brightgreen.svg?style=flat-square)
   * 古典诗词鉴赏与创作，张玉梅
+  * [Repository](https://github.com/yuetsin/ping-shui-rhymes)
   
 * ![CS-013](https://img.shields.io/badge/CS-013-green.svg?style=flat-square)
 ![credit](https://img.shields.io/badge/credit-2.0-green.svg?style=flat-square)
