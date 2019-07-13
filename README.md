@@ -1,4 +1,4 @@
-# curricula
+# curricula · ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/yuetsin/curricula/master.svg?style=flat-square)
 
 ## Freshman Year
 
