@@ -48,7 +48,7 @@
 * ![SE-344](https://img.shields.io/badge/SE-344-lightgrey.svg?style=flat-square)
 ![credit](https://img.shields.io/badge/credit-3.0-lightgrey.svg?style=flat-square)
   * 计算机图形学，肖双九
-  * [Repository]({{github-repo-link}})
+  * [Repository](https://github.com/yuetsin/2019-2020-autumn-semester/tree/master/SE-344)
   
 
 * ![SE-417](https://img.shields.io/badge/SE-417-blueviolet.svg?style=flat-square)
