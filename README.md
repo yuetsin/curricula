@@ -15,3 +15,7 @@
 * [Spring Semester](https://github.com/yuetsin/curricula/blob/master/Sophomore_Spring.md) (`2019/2/25 - 2019/6/16`)
 
 * [Summer Semester](https://github.com/yuetsin/curricula/blob/master/Sophomore_Summer.md) (`2019/7/1 - 2019/7/28`)
+
+## Junior Year
+
+* [Autumn Semester](https://github.com/yuetsin/curricula/blob/master/Junior_Autumn.md) (`2019/9/9 - 2019/12/29`)
