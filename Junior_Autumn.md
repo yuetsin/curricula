@@ -15,7 +15,7 @@
   * [Repository](https://github.com/yuetsin/2019-2020-autumn-semester/tree/master/PO-903)
   
 
-* [HU-902](https://img.shields.io/badge/HU-902-yellowgreen.svg?style=flat-square)
+* ![HU-902](https://img.shields.io/badge/HU-902-yellowgreen.svg?style=flat-square)
 ![credit](https://img.shields.io/badge/credit-2.0-yellowgreen.svg?style=flat-square)
   * 爱的艺术与人生，陈玲玲
   * [Repository](https://github.com/yuetsin/HU-902)
