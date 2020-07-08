@@ -37,6 +37,7 @@
 ![credit](https://img.shields.io/badge/credit-1.0-red.svg?style=flat-square)
   * 企业软件质量保证，任锐
   * [Repository](https://github.com/0583/SE-422)
+  * [Final Project](https://github.com/0583/felis-catus)
   
 
 * ![SE-422](https://img.shields.io/badge/SE-422-blue.svg?style=flat-square)
