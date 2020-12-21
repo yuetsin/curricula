@@ -21,3 +21,9 @@
 * [Autumn Semester](https://github.com/yuetsin/curricula/blob/master/Junior_Autumn.md) (`2019/9/9 - 2019/12/29`)
 
 * [Spring Semester](https://github.com/yuetsin/curricula/blob/master/Junior_Spring.md) (`2020/3/2 - 2020/6/21`)
+
+* [Summer Semester](https://github.com/yuetsin/curricula/blob/master/Junior_Summer.md) (`2020/7/6 - 2020/8/2`)
+
+## Senior Year
+
+* [Autumn Semester](https://github.com/yuetsin/curricula/blob/master/Senior_Autumn.md)
