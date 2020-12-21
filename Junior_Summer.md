@@ -2,4 +2,4 @@
 
 ## Summer Semester, Junior Year
 
-This part intentionally left blank.
+This part is intentionally left blank.
