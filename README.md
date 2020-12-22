@@ -26,4 +26,4 @@
 
 ## Senior Year
 
-* [Autumn Semester](https://github.com/yuetsin/curricula/blob/master/Senior_Autumn.md)
+* [Autumn Semester](https://github.com/yuetsin/curricula/blob/master/Senior_Autumn.md) (`2020/9/7 - 2020/12/27`)
