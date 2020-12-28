@@ -17,10 +17,12 @@
 ![credit](https://img.shields.io/badge/credit-3.0-yellowgreen.svg?style=flat-square)
   * 人机界面与交互，肖双九
   * [Repository](https://github.com/yuetsin/2019-2020-spring-semester/tree/master/SE-340)
+  * [Final Project](https://github.com/InstaPass)
   
 
 * ![SE-341](https://img.shields.io/badge/SE-341-yellow.svg?style=flat-square)
 ![credit](https://img.shields.io/badge/credit-3.0-yellow.svg?style=flat-square)
   * 游戏设计与开发，杨旭波
   * [Repository](https://github.com/yuetsin/2019-2020-spring-semester/tree/master/SE-341)
+  * [Final Project](https://github.com/Diving-Fish/BrittleFracture)
   
