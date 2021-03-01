@@ -31,5 +31,3 @@
 * [Autumn Semester](https://github.com/yuetsin/curricula/blob/master/Senior_Autumn.md) (`2020/9/7 - 2021/1/10`)
 
 * [Spring Semester](https://github.com/yuetsin/curricula/blob/master/Senior_Spring.md) (`2021/2/22 - 2021/6/27`)
-
-* [Summer Semester](https://github.com/yuetsin/curricula/blob/master/Senior_Summer.md) (`2021/6/28 - 2021/7/25`)
